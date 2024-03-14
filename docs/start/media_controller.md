@@ -6,7 +6,7 @@ title: The MPF Media Controller
 
 
 All modern pinball machines use graphics and sound. MPF's architecture
-is build so that the core "game" engine is completely separate from
+is built so that the core "game" engine is completely separate from
 the "media" engine.
 
 The "game" engine is the MPF software itself, and the "media" engine
